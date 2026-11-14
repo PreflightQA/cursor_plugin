@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "preflight": {
+      "url": "https://mcp.preflight.qa",
+      "auth": {
+        "CLIENT_ID": "geJaFG1t1ktiyYNtDDMuZ5MkGxQYozBPNjD8xe91tMg",
+        "scopes": ["mcp:full"]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "preflight",
+  "displayName": "Preflight",
+  "description": "Render and review email screenshots across email clients.",
+  "version": "1.0.1",
+  "author": {
+    "name": "Preflight Software Ltd",
+    "email": "hello@preflight.qa"
+  },
+  "homepage": "https://preflight.qa/",
+  "repository": "https://github.com/PreflightQA/cursor_plugin",
+  "keywords": ["email", "html", "quality-assurance", "screenshots"],
+  "logo": "assets/icon.png"
+}
